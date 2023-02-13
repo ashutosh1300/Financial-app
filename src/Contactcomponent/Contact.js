@@ -1,0 +1,17 @@
+import "./Contact.css";
+
+function Contact()
+{
+   return(
+   <div className="what_we_do_section layout_padding">
+        {/*Contact section start */}
+      <div className="container">
+        <h1 className="what_taital">WHAT WE DO Contact</h1>
+        <p className="What_text">It is a long established fact that a reader will be distracted by the readable content of a Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptates nemo nobis reiciendis perspiciatis dolorum reprehenderit obcaecati sed? Voluptatem fugit dolorum saepe doloribus? Ipsa minima animi natus eos in voluptatibus, aliquam sit officiis molestiae maiores. Sequi harum recusandae numquam non incidunt possimus maiores ex voluptatibus tempore est commodi fugit vero hic dolorum, suscipit quasi corporis explicabo. Nihil itaque laudantium quod, suscipit consequuntur veniam? Obcaecati id quas, esse sunt totam vitae. Provident, officiis quis minima esse tenetur deleniti quibusdam odio harum eius consequuntur facere totam facilis soluta unde dolorum dignissimos quaerat architecto sequi aperiam? Quas quis autem aliquam non dolor. Voluptatum quidem fuga ex harum nam dicta, distinctio fugit laboriosam veritatis dolorum possimus pariatur. Nostrum dolore officiis quidem dignissimos incidunt perspiciatis repellat animi debitis quam fugiat sed officia, dolorem illo omnis quod minus aperiam ducimus! Voluptatum possimus assumenda ipsum molestiae unde perferendis quia obcaecati ex saepe eligendi tempora iusto, autem tenetur temporibus facere minus quod a nam. Deleniti velit odio nisi, veritatis tenetur inventore magnam placeat sint est fugit tempore iusto quasi consectetur adipisci, voluptate aspernatur cupiditate. Exercitationem corrupti dolorem assumenda qui quam fugiat eveniet quas sit quidem? Porro dolorem eveniet sint tempore officia assumenda autem alias repellendus doloribus fuga animi illo, pariatur, similique, veritatis consectetur accusantium minima qui consequatur quaerat! Recusandae, consectetur? Eius, maxime consectetur. Ullam totam facilis recusandae, molestiae temporibus assumenda magni quod veniam asperiores. Nemo quidem, minima eaque in consequuntur quasi doloribus maiores dolores reiciendis. Est, modi. Explicabo alias temporibus animi, ad saepe veritatis inventore at vero debitis doloribus, natus amet assumenda nemo cupiditate suscipit laboriosam labore eligendi voluptatum laborum, et ipsam iure voluptatem! Commodi, aperiam temporibus adipisci nisi qui voluptatibus fuga sequi dolores quasi nulla. Ipsa praesentium quos, provident hic beatae ducimus quisquam aliquam neque esse illo sit soluta corrupti labore obcaecati amet asperiores vitae cupiditate minima pariatur. Illum veniam fuga debitis exercitationem ex itaque alias dolores, molestias quibusdam perferendis ipsum at ad! Incidunt quidem vitae laudantium repellat soluta quisquam, culpa porro tempore nemo cupiditate doloribus, amet nesciunt dolorum iste! Consectetur natus, reiciendis qui vero distinctio architecto vel dolorem tenetur fugiat consequatur officia modi enim ipsam ea officiis impedit dolore quasi corrupti adipisci! Facilis, excepturi atque perferendis eos dicta incidunt minus ipsum rem architecto doloribus tempora nobis deserunt eum. Non, provident architecto inventore, consectetur atque culpa, laudantium commodi repudiandae quas officiis molestias ut. Voluptate laboriosam delectus est dolorem deserunt, soluta distinctio. Quae quod nisi consequuntur animi neque!</p>
+       
+      </div>
+       {/*Contact section end */}
+    </div>
+ )
+}
+ export default Contact;

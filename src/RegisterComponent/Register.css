@@ -1,0 +1,39 @@
+.what_we_do_section{
+    width: 100%;
+    float: left;
+}
+.what_taital {
+    width: 100%;
+    float: left;
+    font-size: 34px;
+    color: #060606;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.what_taital::after {
+    content: '';
+    background-color: #ff5a58;
+    position: absolute;
+    width: 60px;
+    text-align: center;
+    right: 0;
+    top: 0px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    height: 7px;
+    left: 0;
+    border-radius: 100px;
+}
+
+.what_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #060606;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 0px;
+}
